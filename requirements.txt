@@ -1,0 +1,6 @@
+# Python 3.11.16 was used for the reported experiments.
+# Install torch and torchvision using the CUDA wheel command in README.md first.
+torch==2.13.0+cu126
+torchvision==0.28.0+cu126
+Pillow==11.1.0
+numpy==2.4.6

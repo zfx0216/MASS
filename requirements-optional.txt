@@ -1,0 +1,2 @@
+# Only needed when MODEL_BACKEND or backend is set to timm.
+timm==1.0.30

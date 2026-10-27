@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying MASS manuscript and the original attack methods."
+type: software
+title: "MASS: Joint admixture and spectrum-scale transformations for transferable adversarial attacks"
+authors:
+  - family-names: Zhang
+    given-names: Fuxiang
+    affiliation: Lanzhou University
+    orcid: "https://orcid.org/0009-0003-1462-2943"
